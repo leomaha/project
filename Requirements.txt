@@ -1,0 +1,8 @@
+pip install tensorflow
+pip install seaborn
+pip install matplotlib
+pip install scikit-learn
+pip install pandas
+pip install streamlit
+pip install pillow
+pip install pybase64
